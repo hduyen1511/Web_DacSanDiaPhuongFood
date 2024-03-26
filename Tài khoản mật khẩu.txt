@@ -1,0 +1,7 @@
+Quản Trị Viên
+Username: admin
+Password: 1
+
+Người Dùng
+Username: haduyen, min, phananh
+Password: 1

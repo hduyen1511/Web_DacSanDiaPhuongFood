@@ -1,0 +1,1145 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Do-an-co-so.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Do-an-co-so.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\language.png",
+      "PackagePath": "staticwebassets\\img\\language.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\404.svg",
+      "PackagePath": "staticwebassets\\img\\main\\404.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\Bình Định Food-black.png",
+      "PackagePath": "staticwebassets\\img\\main\\Bình Định Food-black.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\Bình Định Food.png",
+      "PackagePath": "staticwebassets\\img\\main\\Bình Định Food.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\Bình_Định_Food-removebg-preview.ico",
+      "PackagePath": "staticwebassets\\img\\main\\Bình_Định_Food-removebg-preview.ico"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\Bình_Định_Food__1_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\main\\Bình_Định_Food__1_-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\about_1.svg",
+      "PackagePath": "staticwebassets\\img\\main\\about_1.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\about_2.svg",
+      "PackagePath": "staticwebassets\\img\\main\\about_2.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\about_3.svg",
+      "PackagePath": "staticwebassets\\img\\main\\about_3.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\arrow_about.png",
+      "PackagePath": "staticwebassets\\img\\main\\arrow_about.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\arrow_left.svg",
+      "PackagePath": "staticwebassets\\img\\main\\arrow_left.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\arrow_right.svg",
+      "PackagePath": "staticwebassets\\img\\main\\arrow_right.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\banner_menu.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\banner_menu.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\banner_popup.png",
+      "PackagePath": "staticwebassets\\img\\main\\banner_popup.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\logo_1.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\logo_1.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\logo_2.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\logo_2.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\logo_3.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\logo_3.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\logo_4.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\logo_4.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\logo_5.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\logo_5.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\logo_6.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\logo_6.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\brands\\placeholder_brands.png",
+      "PackagePath": "staticwebassets\\img\\main\\brands\\placeholder_brands.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\camera.svg",
+      "PackagePath": "staticwebassets\\img\\main\\camera.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\cards_all.svg",
+      "PackagePath": "staticwebassets\\img\\main\\cards_all.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\countdown_bg.svg",
+      "PackagePath": "staticwebassets\\img\\main\\countdown_bg.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_amazon.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_amazon.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_amex.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_amex.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_apple-pay.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_apple-pay.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_bitcoin.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_bitcoin.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_diners-club.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_diners-club.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_discover.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_discover.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_maestro.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_maestro.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_mastercard.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_mastercard.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_paypal.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_paypal.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\credit-cards_visa.svg",
+      "PackagePath": "staticwebassets\\img\\main\\credit-cards_visa.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\drag_icon.svg",
+      "PackagePath": "staticwebassets\\img\\main\\drag_icon.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\facebook_icon.svg",
+      "PackagePath": "staticwebassets\\img\\main\\facebook_icon.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\icon_access.svg",
+      "PackagePath": "staticwebassets\\img\\main\\icon_access.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\icon_cart.svg",
+      "PackagePath": "staticwebassets\\img\\main\\icon_cart.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\icon_grid.svg",
+      "PackagePath": "staticwebassets\\img\\main\\icon_grid.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\icon_like.svg",
+      "PackagePath": "staticwebassets\\img\\main\\icon_like.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\icon_search.svg",
+      "PackagePath": "staticwebassets\\img\\main\\icon_search.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\iconfinder_user_male4_172628 (1).svg",
+      "PackagePath": "staticwebassets\\img\\main\\iconfinder_user_male4_172628 (1).svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\instagram_icon.svg",
+      "PackagePath": "staticwebassets\\img\\main\\instagram_icon.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\logo.ico",
+      "PackagePath": "staticwebassets\\img\\main\\logo.ico"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\logo.png",
+      "PackagePath": "staticwebassets\\img\\main\\logo.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\main\\logo.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\logo_black.svg",
+      "PackagePath": "staticwebassets\\img\\main\\logo_black.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\new_user.svg",
+      "PackagePath": "staticwebassets\\img\\main\\new_user.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\paypal.svg",
+      "PackagePath": "staticwebassets\\img\\main\\paypal.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\56a1b3b71c8d4773ba53c511ae35daf7.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\56a1b3b71c8d4773ba53c511ae35daf7.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\57ee0292f0ac462695d3f525c734b4f5.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\57ee0292f0ac462695d3f525c734b4f5.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\6e603dfe1d184d17b5b2551e322f82e5.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\6e603dfe1d184d17b5b2551e322f82e5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\Banh-trang-nuoc-dua-am-thuc-binh-dinh.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\Banh-trang-nuoc-dua-am-thuc-binh-dinh.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\Sfd5ae3287a604976ab0db51bd93109e5c.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\Sfd5ae3287a604976ab0db51bd93109e5c.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\a0dfa91d426d4fd6bc772dab40861331.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\a0dfa91d426d4fd6bc772dab40861331.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\banh-trang-nhung-binh-dinh.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\banh-trang-nhung-binh-dinh.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\banh-xeo-my-cang-dac-san-binh-dinh.vntrip-e1501650332846.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\banh-xeo-my-cang-dac-san-binh-dinh.vntrip-e1501650332846.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\banhhong.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\banhhong.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\banhit.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\banhit.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\banhthuan.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\banhthuan.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\banhtrangchaca.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\banhtrangchaca.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\bat-bun-song-than.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\bat-bun-song-than.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\beb88c3305e546d38bd236ce24a1d551.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\beb88c3305e546d38bd236ce24a1d551.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\cach-lam-ca-kho-tam-gia-vi.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\cach-lam-ca-kho-tam-gia-vi.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\cach-lua-ca-chi-vang-kho-ngon.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\cach-lua-ca-chi-vang-kho-ngon.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\cha-bo-binh-dinh-nha-lam.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\cha-bo-binh-dinh-nha-lam.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\chaca.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\chaca.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\chatre.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\chatre.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\chả-ram-tôm-đất-quy-nhơn-ngon-loại-1.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\chả-ram-tôm-đất-quy-nhơn-ngon-loại-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\cua-huynh-de-vntrip-e1536313616403.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\cua-huynh-de-vntrip-e1536313616403.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\cá-lao-khô-quy-nhơn.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\cá-lao-khô-quy-nhơn.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\cá-đù-một-nắng.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\cá-đù-một-nắng.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\các-món-từ-ruốc-khô.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\các-món-từ-ruốc-khô.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\f4fe4ae12520476881790ee6dcc57474.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\f4fe4ae12520476881790ee6dcc57474.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\f8b10ec9eb7e4231870c162e6b8ef51f.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\f8b10ec9eb7e4231870c162e6b8ef51f.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\faf7a10281d0450b86c3267a6aa0f70b.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\faf7a10281d0450b86c3267a6aa0f70b.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\ghe-sua-chien-gion.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\ghe-sua-chien-gion.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\giebo.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\giebo.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\goi-ca-chinh-binh-dinh.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\goi-ca-chinh-binh-dinh.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\goica.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\goica.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\mamnhum.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\mamnhum.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\muc-mot-nang-gia-bao-nhieu-1kg.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\muc-mot-nang-gia-bao-nhieu-1kg.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\muc-ngao-ot-dac-san-binh-dinh-lam-qua.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\muc-ngao-ot-dac-san-binh-dinh-lam-qua.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\mucrim.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\mucrim.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\nem.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\nem.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\nuoc-mam-nhi-nguyen-chat-tam-quan-binh-dinh.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\nuoc-mam-nhi-nguyen-chat-tam-quan-binh-dinh.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\ruoubauda.png",
+      "PackagePath": "staticwebassets\\img\\main\\products\\ruoubauda.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\products\\tom-kho-gia-bao-nhieu-1kg.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\products\\tom-kho-gia-bao-nhieu-1kg.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\search.svg",
+      "PackagePath": "staticwebassets\\img\\main\\search.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\slides\\fc4845b53e3b4f9893c718e5a4ed6453.png",
+      "PackagePath": "staticwebassets\\img\\main\\slides\\fc4845b53e3b4f9893c718e5a4ed6453.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\slides\\slide_home_1.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\slides\\slide_home_1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\slides\\slide_home_2.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\slides\\slide_home_2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\slides\\slide_home_3.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\slides\\slide_home_3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\slides\\slide_home_4.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\slides\\slide_home_4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\staff\\0d45bade8d1e402fa2615717f3808101.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\staff\\0d45bade8d1e402fa2615717f3808101.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\staff\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\staff\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\staff\\nhon.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\staff\\nhon.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\staff\\tai.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\staff\\tai.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\staff\\thai.jpg",
+      "PackagePath": "staticwebassets\\img\\main\\staff\\thai.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\stars.svg",
+      "PackagePath": "staticwebassets\\img\\main\\stars.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\track_order.svg",
+      "PackagePath": "staticwebassets\\img\\main\\track_order.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\twitter_icon.svg",
+      "PackagePath": "staticwebassets\\img\\main\\twitter_icon.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\user.svg",
+      "PackagePath": "staticwebassets\\img\\main\\user.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\video_fix.png",
+      "PackagePath": "staticwebassets\\img\\main\\video_fix.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\main\\youtube_icon.svg",
+      "PackagePath": "staticwebassets\\img\\main\\youtube_icon.svg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\img\\payment-item.png"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-grid.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\sass\\_shoping-cart.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_sidebar.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "E:\\Do-an-co-so\\Do-an-co-so\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Do-an-co-so.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Do-an-co-so.props",
+      "PackagePath": "build\\Do-an-co-so.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Do-an-co-so.props",
+      "PackagePath": "buildMultiTargeting\\Do-an-co-so.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Do-an-co-so.props",
+      "PackagePath": "buildTransitive\\Do-an-co-so.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
